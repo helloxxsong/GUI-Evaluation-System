@@ -1,7 +1,7 @@
 from zhipuai import ZhipuAI
 
 client = ZhipuAI(
-    api_key="126907188f35f86595a5f17d92785350.Urr49pRRttcbw9yO"
+    api_key=""
 )
 
 
